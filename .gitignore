@@ -1,0 +1,15 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore Secrets (NEVER UPLOAD THESE)
+.env
+data/credentials.json
+
+# Ignore System Files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore Large Data (Optional, but good practice)
+# You can keep the PDF if it's small, otherwise ignore it:
+# data/textbook.pdf

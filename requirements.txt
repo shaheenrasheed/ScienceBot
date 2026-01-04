@@ -1,0 +1,12 @@
+google-generativeai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+sentence-transformers
+faiss-cpu
+networkx
+pymupdf
+python-dotenv
+pandas
+numpy
+tqdm
