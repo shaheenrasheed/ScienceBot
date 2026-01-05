@@ -21,4 +21,4 @@ An advanced RAG (Retrieval-Augmented Generation) Chatbot built with Python, Goog
 ## 📽️ Project Presentation
 Click the image below to view the full slide deck explaining the Architecture and Logic:
 
-[![ScienceBot Presentation](assets/presentation_cover.png)](https://gamma.app/docs/ScienceBot-iwd6gwqgbhns71k)
+[![ScienceBot Presentation](assets/teacher.png)](https://gamma.app/docs/ScienceBot-iwd6gwqgbhns71k)
